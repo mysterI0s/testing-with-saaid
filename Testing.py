@@ -7,4 +7,7 @@ print(x+y)
 print(" dvssdsd")
 
 
-
+def saeed3mk():
+	print("saeed3mk")
+def saeed_trombeh():
+	print("saeed3mk")
